@@ -7,3 +7,5 @@
 . $(dirname $0)/../extra-files/update-geodata.sh
 
 # echo "autoboot.command=boot flash 0x180000" > feeds/base-files/files/etc/fw_env.config
+
+. $(dirname $0)/../extra-files/modify-xiaomi-router-4a-3g-v2.sh
