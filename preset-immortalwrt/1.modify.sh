@@ -6,4 +6,4 @@
 # replace geodata source
 . $(dirname $0)/../extra-files/update-geodata.sh
 
-echo "autoboot.command=boot flash 0x180000" > feeds/base-files/files/etc/fw_env.config
+# echo "autoboot.command=boot flash 0x180000" > feeds/base-files/files/etc/fw_env.config
